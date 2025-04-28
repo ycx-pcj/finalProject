@@ -35,9 +35,12 @@
   },
   "name":"BlackJackTrainer",
   "resources":[
+    {"id":{"name":"card_obj","path":"objects/card_obj/card_obj.yy",},},
+    {"id":{"name":"manager_obj","path":"objects/manager_obj/manager_obj.yy",},},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"card_sprites","path":"sprites/card_sprites/card_sprites.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
